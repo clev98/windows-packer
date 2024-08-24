@@ -1,0 +1,1 @@
+C:/windows/system32/sysprep/sysprep.exe /generalize /shutdown /quiet /oobe /unattend:C:/unattend.xml
